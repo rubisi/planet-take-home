@@ -47,4 +47,4 @@ For larger or more complex projects, it would be recommended to separate reusabl
 - Persistent filters stored in localStorage
 - Color coded markers per customer so that we can visually tell which orders belong to whom
 - Summary sidebar with per-customer order counts
-- We could use a **date/time picker component** (for example, `react-datepicker` or MUI’s `DateTimePicker`) for a richer and more consistent user experience
+- We could use a date/time picker component (for example, `react-datepicker` or MUI’s `DateTimePicker`) for a richer and more consistent user experience
