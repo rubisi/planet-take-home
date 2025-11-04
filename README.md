@@ -6,10 +6,13 @@ It includes:
 - A **React + Leaflet frontend** (`bubbletea-orders/`) to display and filter orders.
 
 ## Folder structure
+```
 planet-take-home/
-    - fullstack-sample-orders.csv   -> the provided raw input data  
-    - prepare_orders.py             -> converts CSV to orders.json(saves in bubbletea-orders/public)
-    - bubbletea-orders/             -> React frontend project
+│
+├── fullstack-sample-orders.csv   -> the provided raw input data  
+├── prepare_orders.py             -> converts CSV to orders.json(saves in bubbletea-orders/public)
+└── bubbletea-orders/             -> React frontend project
+```
 
 ## How to run
 1. From `planet-take-home/`:
