@@ -50,7 +50,7 @@ For larger or more complex projects, it would be recommended to separate reusabl
 - We could use a date/time picker component (for example, `react-datepicker` or MUI’s `DateTimePicker`) for a richer and more consistent user experience
 
 ## AI Assistance
-I used ChatGPT as a helper tool two specific tasks during development (mainly for syntax clarification and refinement and not for generating the full solution)
+I used ChatGPT as a helper tool for two specific tasks during development (mainly for syntax clarification and refinement and not for generating the full solution)
 1. **Regex Parsing(Python)**: I used the following prompt to help design and verify the fallback regex logic in parse_point() for extracting numeric latitude and longitude values:
 - In Python, how can I extract two floating-point numbers (including signed values) from a string like 'Point(52.5129, 13.3394)' using regex, as a fallback if literal parsing fails?
 2. **Responsive UI Styling**: I also used AI tool to improve the responsive layout for the filter bar and map controls. The prompt I used was:
